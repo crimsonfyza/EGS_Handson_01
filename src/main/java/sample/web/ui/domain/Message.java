@@ -11,7 +11,7 @@
  * specific language governing permissions and limitations under the License.
  */
 
-package sample.web.ui;
+package sample.web.ui.domain;
 
 import java.util.Calendar;
 
